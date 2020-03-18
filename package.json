@@ -1,5 +1,5 @@
 {
-  "name": "reactjs-test-stub",
+  "name": "react-challenge-03-2020",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -19,5 +19,17 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
